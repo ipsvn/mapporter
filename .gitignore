@@ -1,0 +1,6 @@
+__pycache__/
+venv/
+
+bspsrc.jar
+*.bsp
+temp/
